@@ -1,15 +1,10 @@
 # Global Warming Dashboard
 
 ### Quic Links  
-- [View dashboard on Rpubs](https://rpubs.com/Ga25/654326)  
-- [View markdown and codes](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Dashboard.Rmd)
+- [View dashboard on Rpubs](file:///Users/jasminemerrill/Global%20Warming%20Dashboard/GlobalWarmingDashboardJ.html)  
   
 ### Description
 An informative dashboard on global warming, made using R's ggplot2, plotly, and flexdashboard.
-  
-This dashboard is created to show the trends in various aspects of global warming, such as the rise
-in global land temperature, sea level, emissions of the greenhouse gases and the reported extreme
-weather events.
 
 ![Dashboard](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Images/Dashboard.png)
 
