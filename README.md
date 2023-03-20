@@ -6,7 +6,7 @@
 ### Description
 An informative dashboard on global warming, made using R's ggplot2, plotly, and flexdashboard.
 
-[Dashboard]!file:///Users/jasminemerrill/Global%20Warming%20Dashboard/GlobalWarmingDashboardJ.html
+![Dashboard](https://github.com/jlm7525/DS440/blob/e244d21eb6c4dbbc148a4796b24e8c438bb22412/images/Global%20Warming%20Dashboard.png)
 
 
 ### Datasets & Source of Data
