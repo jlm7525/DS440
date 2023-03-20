@@ -1,7 +1,7 @@
 # Global Warming Dashboard
 
 ### Quic Links  
-- [View dashboard on Rpubs](file:///Users/jasminemerrill/Global%20Warming%20Dashboard/GlobalWarmingDashboardJ.html)  
+- [View dashboard on Rpubs](https://rpubs.com/jlm7525/GlobalWarmingDashboard-DS440)
   
 ### Description
 An informative dashboard on global warming, made using R's ggplot2, plotly, and flexdashboard.
